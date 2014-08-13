@@ -1,11 +1,4 @@
 #HyperX Invitational
- - 6 invited players
- - 2 qualified players
- - Double elimination
- - All matches Bo5
- - August 23rd/24th
- - Cast by Frodan
- - All players are required to stream their Hearthstone client to WellPlayed’s servers
 
 ##Open Qualifiers
  - Double elimination
@@ -21,6 +14,7 @@
  - All players will provide 4 classes
 
 ###Qualifier Match Format
+ - All matches are Bo3
  - All players must provide four classes that they will use throughout the qualifiers
  - Both players will ban one class before the start of the match
  - Higher seeded player will ban first
@@ -30,7 +24,7 @@
 ###Qualifier Rules
  - All matches will be played on the EU servers, unless both players agree to play on NA
  - Players must be able to stream their games to be eligible
- - The winning player of each match is required to take a screenshot of the victory screen
+ - The winning player of each game is required to take a screenshot of the victory screen
  - Players are not allowed to modify their decks during the qualifier. If it can proven that decks were modified, from vods or screenshots, it will result in a disqualification.
  - Qualifying players will be allowed to create completely new deck lists for the main event
 
