@@ -12,13 +12,27 @@
  - Random seeding
  - Run August 18th/19th
  - Will not be streamed
+ - Max 128 players
+ - First come first serve
 
-###Qualifier Rules
- - All players must provide three classes that they will use throughout the qualifiers
- - All player class lists will be public to all players
+##Qualifier Registration
+ - Link: http://battlefy.com/wellplayed/hyperx-invitational-by-wellplayed-productions/53ebb03c22b860690a45cabe/info
+ - Players must be able to stream
+ - All players will provide 4 classes
+
+###Qualifier Match Format
+ - All players must provide four classes that they will use throughout the qualifiers
+ - Both players will ban one class before the start of the match
+ - Higher seeded player will ban first
  - Winning player must play same deck
  - Losing player picks a new deck
+ - 
+###Qualifier Rules
  - All matches will be played on the EU servers, unless both players agree to play on NA
+ - Players must be able to stream their games to be eligible
+ - The winning player of each match is required to take a screenshot of the victory screen
+ - Players are not allowed to their decks during the qualifier
+ - Qualifying players will be allowed to create completely new deck lists for the main event
 
 
 ##Main Event
