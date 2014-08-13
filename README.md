@@ -29,8 +29,8 @@ Games will start 10 minutes before the times listed on the schedule to account f
 
 ###Format
  - Best of 5
- - All players must provide a deck list by 7am PDT the day of the matches
- - Decks can be completely changed from day to day
+ - All players must provide a deck list by 11pm PDT the day before the matches
+ - Decks and classes can be completely changed from day to day
  - No duplicate classes
  - Blind deck pick for 1st game
  - Game winner keeps the same deck, loser picks a new deck
