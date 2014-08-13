@@ -26,12 +26,12 @@
  - Higher seeded player will ban first
  - Winning player must play same deck
  - Losing player picks a new deck
- - 
+
 ###Qualifier Rules
  - All matches will be played on the EU servers, unless both players agree to play on NA
  - Players must be able to stream their games to be eligible
  - The winning player of each match is required to take a screenshot of the victory screen
- - Players are not allowed to their decks during the qualifier
+ - Players are not allowed to modify their decks during the qualifier. If it can proven that decks were modified, from vods or screenshots, it will result in a disqualification.
  - Qualifying players will be allowed to create completely new deck lists for the main event
 
 
