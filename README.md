@@ -1,4 +1,5 @@
 #HyperX Invitational
+Please note that this document is **subject to change**. We recommend you Watch it on GitHub to be notified of any changes.
 
 ##Open Qualifiers
  - Double elimination
