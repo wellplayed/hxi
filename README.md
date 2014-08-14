@@ -10,7 +10,7 @@
 
 ##Qualifier Registration
  - Link: http://battlefy.com/wellplayed/hyperx-invitational-by-wellplayed-productions/53ebb03c22b860690a45cabe/info
- - Players must be able to stream
+ - Players must be able to stream by the start of the Main tournament (8/23)
  - All players will provide 4 classes
 
 ###Qualifier Match Format
@@ -23,7 +23,7 @@
 
 ###Qualifier Rules
  - All matches will be played on the EU servers, unless both players agree to play on NA
- - Players must be able to stream their games to be eligible
+ - Players must be able to stream their games to be eligible for the main tournament
  - The winning player of each game is required to take a screenshot of the victory screen
  - Players are not allowed to modify their decks during the qualifier. If it can proven that decks were modified, from vods or screenshots, it will result in a disqualification.
  - Qualifying players will be allowed to create completely new deck lists for the main event
