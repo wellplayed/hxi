@@ -10,7 +10,7 @@
 
 ##Qualifier Registration
  - Link: http://battlefy.com/wellplayed/hyperx-invitational-by-wellplayed-productions/53ebb03c22b860690a45cabe/info
- - Players must be able to stream by the start of the Main tournament (8/23)
+ - Players must be able to stream
  - All players will provide 4 classes
 
 ###Qualifier Match Format
@@ -23,11 +23,16 @@
 
 ###Qualifier Rules
  - All matches will be played on the EU servers, unless both players agree to play on NA
- - Players must be able to stream their games to be eligible for the main tournament
+ - Players must be able to stream their games to be eligible
  - The winning player of each game is required to take a screenshot of the victory screen
  - Players are not allowed to modify their decks during the qualifier. If it can proven that decks were modified, from vods or screenshots, it will result in a disqualification.
  - Qualifying players will be allowed to create completely new deck lists for the main event
 
+
+###Qualifier Schedule
+ - Games will start at 10AM PDT
+ - August 18th: Winners bracket up to Round 4 and Losers bracket up to Round 6
+ - August 19th: Remainder of the day
 
 ##Main Event
 
@@ -37,16 +42,13 @@ Games will start 10 minutes before the times listed on the schedule to account f
 
 ###Format
  - Best of 5
- - Double Elimination
- - All players must provide a deck list by 11pm PDT the day before the matches
- - Decks and classes can be completely changed from day to day
- - No duplicate classes
- - Blind deck pick for 1st game
+ - All players must provide four classes that they will use each day
+ - Both players will ban one class before the start of the match
+ - Higher seeded player will ban first
  - Game winner keeps the same deck, loser picks a new deck
- - Both players get 1 class ban per series
- - Class bans can only be used after a game loss
- - If both players wish to play on EU servers they may do so, otherwise the default is the NA server
  - Player coming from the Losers bracket must win two Bo5s in the Grand Finals
+ - All matches will be played on the EU servers, unless both players agree to play on NA
+
 
 ###Rules
 1. Checking In
@@ -61,8 +63,8 @@ Games will start 10 minutes before the times listed on the schedule to account f
   1. Players will receive 1 warning if they receive a (non-game-related) message in game. After 2 warnings in one day, any further messages will result in a forfeit of the current game.
   2. Players who receive messages containing game information will forfeit the current game.
 4. Decks
-  1. Players must provide their decks to WellPlayed 3 hours before the scheduled start time of the first match of the day
-  2. Decks can be sent to colin.kierans@wellplayed.org
+  1. Players must provide their decks to WellPlayed at 11PM PDT the night before their matches
+  2. Decks can be sent to contact@wellplayed.org
   3. If players miss the deadline they must play with the same deck list as the previous day
   4. Playing cards not listed in your provided deck will result in a game forfeiture
 
