@@ -25,7 +25,8 @@
  - All matches will be played on the EU servers, unless both players agree to play on NA
  - Players must be able to stream their games to be eligible
  - The winning player of each game is required to take a screenshot of the victory screen
- - The winning player of the series is required to submit their deck list and their victory screenshots to hxih@wellplayed.org after each match
+ - The winning player of the series is required to submit their victory screenshots to hxi@wellplayed.org after each match
+ - Players must submit their entire deck lists to hxi@wellplayed.org before the tournament
  - Players are not allowed to modify their decks between games. If it can proven that decks were modified, from vods or screenshots, it will result in a disqualification.
  - Qualifying players will be allowed to create completely new deck lists for the main event
 
@@ -33,7 +34,8 @@
 ###Qualifier Schedule
  - Games will start at 10AM PDT
  - August 18th: Winners bracket up to Round 4 and Losers bracket up to Round 6
- - August 19th: Remainder of the day
+ - August 19th: Remainder of the brackets
+ - Schedule subject to change based on number of signups
 
 ##Main Event
 
