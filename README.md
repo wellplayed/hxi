@@ -10,8 +10,6 @@
 
 ##Qualifier Registration
  - Link: http://battlefy.com/wellplayed/hyperx-invitational-by-wellplayed-productions/53ebb03c22b860690a45cabe/info
- - Players must be able to stream
- - All players will provide 4 classes
 
 ###Qualifier Match Format
  - All matches are Bo3
