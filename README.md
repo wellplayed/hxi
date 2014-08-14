@@ -25,7 +25,7 @@
  - All matches will be played on the EU servers, unless both players agree to play on NA
  - Players must be able to stream their games to be eligible
  - The winning player of each game is required to take a screenshot of the victory screen
- - The winning player of the series is required to submit their deck list and their victory screenshots to contact@wellplayed.org after each match
+ - The winning player of the series is required to submit their deck list and their victory screenshots to hxih@wellplayed.org after each match
  - Players are not allowed to modify their decks between games. If it can proven that decks were modified, from vods or screenshots, it will result in a disqualification.
  - Qualifying players will be allowed to create completely new deck lists for the main event
 
@@ -65,7 +65,7 @@ Games will start 10 minutes before the times listed on the schedule to account f
   2. Players who receive messages containing game information will forfeit the current game.
 4. Decks
   1. Players must provide their decks to WellPlayed at 11PM PDT the night before their matches
-  2. Decks can be sent to contact@wellplayed.org
+  2. Decks can be sent to hxi@wellplayed.org
   3. If players miss the deadline they must play with the same deck list as the previous day
   4. Playing cards not listed in your provided deck will result in a game forfeiture
 
