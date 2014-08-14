@@ -15,7 +15,7 @@
 
 ###Qualifier Match Format
  - All matches are Bo3
- - All players must provide four classes that they will use throughout the qualifiers
+ - All players must provide four classes that they will use throughout the qualifiers. Player classes will be public.
  - Both players will ban one class before the start of the match
  - Higher seeded player will ban first
  - Winning player must play same deck
@@ -25,7 +25,8 @@
  - All matches will be played on the EU servers, unless both players agree to play on NA
  - Players must be able to stream their games to be eligible
  - The winning player of each game is required to take a screenshot of the victory screen
- - Players are not allowed to modify their decks during the qualifier. If it can proven that decks were modified, from vods or screenshots, it will result in a disqualification.
+ - The winning player of the series is required to submit their deck list and their victory screenshots to contact@wellplayed.org after each match
+ - Players are not allowed to modify their decks between games. If it can proven that decks were modified, from vods or screenshots, it will result in a disqualification.
  - Qualifying players will be allowed to create completely new deck lists for the main event
 
 
