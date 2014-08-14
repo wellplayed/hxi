@@ -10,8 +10,6 @@
  - EU server
  - Players must be able to stream
 
-##Qualifier Registration
- - Link: http://battlefy.com/wellplayed/hyperx-invitational-by-wellplayed-productions/53ebb03c22b860690a45cabe/info
 
 ###Qualifier Match Format
  - All matches are Bo3
@@ -36,6 +34,9 @@
  - August 18th: Winners bracket up to Round 4 and Losers bracket up to Round 6
  - August 19th: Remainder of the brackets
  - Schedule subject to change based on number of signups
+
+##Qualifier Registration
+ - Link: http://battlefy.com/wellplayed/hyperx-invitational-by-wellplayed-productions/53ebb03c22b860690a45cabe/info
 
 ##Main Event
 
