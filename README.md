@@ -7,6 +7,8 @@
  - Will not be streamed
  - Max 128 players
  - First come first serve
+ - EU server
+ - Players must be able to stream
 
 ##Qualifier Registration
  - Link: http://battlefy.com/wellplayed/hyperx-invitational-by-wellplayed-productions/53ebb03c22b860690a45cabe/info
