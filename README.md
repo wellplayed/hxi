@@ -16,9 +16,9 @@ Please note that this document is **subject to change**. We recommend you Watch 
  - All matches are Bo3
  - All players must provide four classes that they will use throughout the qualifiers. Player classes will be public.
  - Both players will ban one class before the start of the match
- - Higher seeded player will ban first
- - Winning player must play same deck
- - Losing player picks a new deck
+ - Bans will be submitted at http://hxi.wellplayed.org/bans
+ - Bans will be hidden until both bans have been submitted
+ - Higher seeded player is in charge of submitting the first ban and sending the link to their opponent
 
 ###Qualifier Rules
  - All matches will be played on the EU servers, unless both players agree to play on NA
