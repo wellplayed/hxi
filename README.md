@@ -13,6 +13,7 @@ Please note that this document is **subject to change**. We recommend you Watch 
 
 
 ###Qualifier Match Format
+ - Qualifier chat will be in IRC at #HXI on irc.quakenet.org
  - All matches are Bo3.
  - All players must provide four classes that they will use throughout the qualifiers. Player classes will be public.
  - Both players will ban one class before the start of the match.
