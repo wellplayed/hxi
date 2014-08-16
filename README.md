@@ -26,9 +26,10 @@ Please note that this document is **subject to change**. We recommend you Watch 
  - Players must be able to stream their games to be eligible.
  - The winning player of each game is required to take a screenshot of the victory screen.
  - The winning player of the series is required to submit their victory screenshots to hxi@wellplayed.org after each match.
-  - Format: [Winning Player] beats [Losing Player] [score] in [Round Name]
+  - Email subject format: [Winning Player] beats [Losing Player] [score] in [Round Name]
   - Example: Richord beats SavvyD 2:1 in Winners Round 1
  - Players must submit their entire deck lists to hxi@wellplayed.org before the tournament.
+  - Email subject format: [Your Name] deck list
  - Deck lists must be submitted by 9AM PDT Monday August 18th.
  - Players are not allowed to modify their decks between games. If it can proven that decks were modified, from vods or screenshots, it will result in a disqualification.
  - Qualifying players will be allowed to create completely new deck lists for the main event.
