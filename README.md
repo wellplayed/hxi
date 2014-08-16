@@ -30,7 +30,7 @@ Please note that this document is **subject to change**. We recommend you Watch 
   - Example: Richord beats SavvyD 2:1 in Winners Round 1
  - Players must submit their entire deck lists to hxi@wellplayed.org before the tournament.
   - Email subject format: [Your Name] deck list
- - Deck lists must be submitted by 9AM PDT Monday August 18th.
+ - Deck lists must be submitted by **11:59PM PDT Sunday August 18th**.
  - Players are not allowed to modify their decks between games. If it can proven that decks were modified, from vods or screenshots, it will result in a disqualification.
  - Qualifying players will be allowed to create completely new deck lists for the main event.
  - Players are allowed to stream their games, but are encourage to do so with a large stream delay.
