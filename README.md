@@ -23,7 +23,7 @@ Please note that this document is **subject to change**. We recommend you Watch 
 
 ###Qualifier Rules
  - All matches will be played on the EU servers, unless both players agree to play on NA.
- - Players must be able to stream their games to be eligible.
+ - Players must be able to stream their games to be eligible for a spot in the main tournament. However, players are not required to stream their qualifier games.
  - The winning player of each game is required to take a screenshot of the victory screen.
  - The winning player of the series is required to submit their victory screenshots to hxi@wellplayed.org after each match.
   - Email subject format: [Winning Player] beats [Losing Player] [score] in [Round Name]
@@ -33,7 +33,7 @@ Please note that this document is **subject to change**. We recommend you Watch 
  - Deck lists must be submitted by **11:59PM PDT Sunday August 17th**.
  - Players are not allowed to modify their decks between games. If it can proven that decks were modified, from vods or screenshots, it will result in a disqualification.
  - Qualifying players will be allowed to create completely new deck lists for the main event.
- - Players are allowed to stream their games, but are encourage to do so with a large stream delay.
+ - Players are allowed to stream their games, but are encouraged to do so with a large stream delay.
 
 
 ###Qualifier Schedule
