@@ -15,11 +15,13 @@ Please note that this document is **subject to change**. We recommend you Watch 
 ###Qualifier Match Format
  - Qualifier chat will be in IRC at #HXI on irc.quakenet.org
  - All matches are Bo3.
+ - Game winning player plays the same deck, losing player switches to one of their remaining unbanned decks.
  - All players must provide four classes that they will use throughout the qualifiers. Player classes will be public.
  - Both players will ban one class before the start of the match.
  - Bans will be submitted at http://hxi.wellplayed.org/bans.
  - Bans will be hidden until both bans have been submitted.
  - Higher seeded player is in charge of submitting the first ban and sending the link to their opponent.
+
 
 ###Qualifier Rules
  - All matches will be played on the EU servers, unless both players agree to play on NA.
