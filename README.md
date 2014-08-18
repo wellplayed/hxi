@@ -76,9 +76,9 @@ Games will start 10 minutes before the times listed on the schedule to account f
   1. Players will receive 1 warning if they receive a (non-game-related) message in game. After 2 warnings in one day, any further messages will result in a forfeit of the current game.
   2. Players who receive messages containing game information will forfeit the current game.
 4. Decks
-  1. Players must provide their decks to WellPlayed at 11PM PDT the night before their matches
-  2. Decks can be sent to hxi@wellplayed.org
-  3. If players miss the deadline they must play with the same deck list as the previous day
+  1. Players must provide their decks to WellPlayed by 11PM PDT the night before the first day of matches
+  2. Players must use the same deck list for both days of the event
+  3. Decks can be sent to hxi@wellplayed.org
   4. Playing cards not listed in your provided deck will result in a game forfeiture
 
 
