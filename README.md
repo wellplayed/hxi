@@ -57,7 +57,7 @@ Games will start 10 minutes before the times listed on the schedule to account f
  - Best of 5
  - All players must provide four classes that they will use each day
  - Both players will ban one class before the start of the match
- - Higher seeded player will ban first
+ - Bans will be giving to an admin then told to both players
  - Game winner keeps the same deck, loser picks a new deck
  - Player coming from the Losers bracket must win two Bo5s in the Grand Finals
  - All matches will be played on the EU servers, unless both players agree to play on NA
